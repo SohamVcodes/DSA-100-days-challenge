@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0001-two-sum) |
+| [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,16 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->

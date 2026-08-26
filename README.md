@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0001-two-sum) |
+| [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

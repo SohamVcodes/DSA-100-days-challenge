@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -88,6 +89,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0901-online-stock-span) |
 ## Design
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

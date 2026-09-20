@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0001-two-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0901-online-stock-span) |
 ## Design
@@ -99,6 +101,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

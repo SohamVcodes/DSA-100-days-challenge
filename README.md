@@ -26,6 +26,7 @@
 | [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0002-add-two-numbers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0071-simplify-path](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0901-online-stock-span) |
 ## Design

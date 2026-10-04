@@ -32,6 +32,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
 ## Counting
@@ -105,6 +106,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
@@ -112,6 +114,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0901-online-stock-span) |
 ## Monotonic Stack

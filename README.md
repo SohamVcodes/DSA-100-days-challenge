@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0002-add-two-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |

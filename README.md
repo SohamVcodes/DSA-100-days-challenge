@@ -26,6 +26,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
@@ -144,4 +146,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

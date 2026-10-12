@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |

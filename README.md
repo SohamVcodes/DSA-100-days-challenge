@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
 ## Counting
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +152,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,4 +173,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

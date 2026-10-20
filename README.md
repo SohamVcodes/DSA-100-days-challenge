@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0020-valid-parentheses) |
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -156,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
@@ -177,4 +180,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

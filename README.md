@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -162,6 +164,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 ## String Matching
 |  |
 | ------- |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->

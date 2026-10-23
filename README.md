@@ -14,6 +14,7 @@
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
+| [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
+| [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->

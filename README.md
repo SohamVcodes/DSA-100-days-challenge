@@ -13,6 +13,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1200-minimum-absolute-difference) |
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1200-minimum-absolute-difference) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
@@ -169,6 +171,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 ## String Matching
 |  |
 | ------- |
@@ -197,5 +200,10 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [1200-minimum-absolute-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1200-minimum-absolute-difference) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## String Matching
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

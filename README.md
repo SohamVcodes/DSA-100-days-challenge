@@ -43,6 +43,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Queue
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Longest Increasing Subsequence

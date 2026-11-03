@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
@@ -178,6 +179,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -208,6 +210,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -218,4 +221,12 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->

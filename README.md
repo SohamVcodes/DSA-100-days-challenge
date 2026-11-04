@@ -20,6 +20,7 @@
 | [1200-minimum-absolute-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1200-minimum-absolute-difference) |
 | [1672-richest-customer-wealth](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Hash Table
@@ -79,6 +80,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1200-minimum-absolute-difference) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Heap (Priority Queue)
@@ -220,6 +223,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1710-maximum-units-on-a-truck) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Longest Increasing Subsequence
 |  |

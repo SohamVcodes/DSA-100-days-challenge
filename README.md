@@ -30,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0023-merge-k-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0622-design-circular-queue) |
@@ -77,6 +79,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0455-assign-cookies) |
@@ -241,4 +244,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0455-assign-cookies) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

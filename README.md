@@ -105,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
@@ -112,6 +113,7 @@
 | [0002-add-two-numbers](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0258-add-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

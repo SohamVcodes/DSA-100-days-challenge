@@ -46,6 +46,7 @@
 | [0071-simplify-path](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0412-fizz-buzz) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Queue
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0412-fizz-buzz) |
 | [2974-minimum-number-game](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
@@ -114,6 +116,7 @@
 | [0012-integer-to-roman](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/0412-fizz-buzz) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamVcodes/DSA-100-days-challenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
